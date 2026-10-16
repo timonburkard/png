@@ -1,4 +1,4 @@
-# PNG
+# PNG 📷
 
 A small C program that creates a PNG file.
 
